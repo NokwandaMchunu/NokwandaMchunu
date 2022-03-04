@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NokwandaMchunu
 - 👀 I’m interested in ...#PowerApps #PowerAutomate #Javascript #Python #Lowcode #Automation #RPA
-- 🌱 I’m currently learning ...CS50's Web Programming with Python and JavaScript
+- 🌱 I’m currently learning ...CS50's Web Programming with Python and JavaScript, OutSystems Reactive Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
